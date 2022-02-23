@@ -1,6 +1,13 @@
 # Deployed on Heroku PaaS
 https://sleepy-tundra-93427.herokuapp.com/
 
+Built a web application to comment, remove and add photos via URL link. Used React library, JSX and JavaScript for client-side programming, and Node.JS, Express API for backend. Utilized Google's free cloud database for storage and deployed the application on Heroku PaaS.
+
+- Java, JavaScript (ES5 & ES6), SQL, html, CSS, JSX, VBA, JSON, jQuery, Object-Oriented
+- React, react-router, Redux, Node.js, mongoose, OAuth
+- Restful APIs, Asynchronous Non-blocking I/O, Node http, Express API
+- Firebase, Mongo DB, MySQL, Heroku PaaS, Nginx web server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
