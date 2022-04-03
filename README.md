@@ -1,7 +1,7 @@
 # Deployed on Heroku PaaS
 https://sleepy-tundra-93427.herokuapp.com/
 
-A react application that enables adding photos via URL link, commenting, removing and rating. Developed on top of Node runtime environment using React library for UI, JavaScript for client-side programming, and Express APIs for backend. Utilized MongoDB's NoSQL database for storage. Deployed the application on Heroku PaaS.
+A react application that enables adding photos via URL link as well commenting and removing functionality. Developed on top of Node runtime environment using React library for UI, JavaScript for client-side programming, and Express APIs for backend. Utilized MongoDB's NoSQL database for storage. Deployed the application on Heroku PaaS.
 
 - Java, JavaScript (ES5 & ES6), SQL, html, CSS, JSX, VBA, JSON, jQuery, Object-Oriented
 - React, react-router, Redux, Node.js, mongoose, OAuth
