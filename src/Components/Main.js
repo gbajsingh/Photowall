@@ -65,7 +65,7 @@ class Main extends Component {
             return (
                 <div>
                     <h1>
-                        <Link to="/">Photowall</Link>
+                        <Link to="/">Photowal</Link>
                     </h1>
                     <Route exact path = "/" render = {() => (
                         <div>
